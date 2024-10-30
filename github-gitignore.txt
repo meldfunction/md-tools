@@ -1,0 +1,5 @@
+complete.md
+complete.html
+complete.pdf
+.DS_Store
+*.temp
